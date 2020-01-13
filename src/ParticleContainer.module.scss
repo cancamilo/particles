@@ -1,5 +1,22 @@
 .container {
-    height: 100%;
-    width: 100%;
-    background: green;
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(240, 240, 240);
+  display: flex;
+}
+
+.centerFrame {
+  margin: auto;
+  margin-top: 10vh;
+  flex-basis: 90%;
+  border: 2px solid red;
+}
+
+@media (min-width: 700px) {
+  .centerFrame {
+    margin: auto;
+    margin-top: 10vh;
+    flex-basis: 50%;
+    border: 2px solid green;
+  }
 }
