@@ -1,31 +1,27 @@
-import React, { useEffect } from "react";
-import axios from "axios";
+import React, { useState, useEffect } from "react";
 import { poems } from "../data/poems";
 
-const url = "https://www.poemist.com/api/v1/randompoems";
-export const PoemBox = () => {
-  useEffect(() => {
-    async function fetchData() {
-      //const data = await axios.get(url);
-      //console.log(data);
+import styles from "./PoemBox.module.scss";
 
+const url = "https://www.poemist.com/api/v1/randompoems";
+export const PoemBox = ({ toggle }) => {
+  const [currentPoem, setCurrentPoem] = useState({});
+  useEffect(() => {
+    function fetchData() {
       const length = poems.length;
       const poemId = Math.floor(Math.random() * length);
       console.log("randomly generated id:", poemId);
-
-      // TODO: put poem into state
-      // extract title, content, and author data.
-      // try different poems to check if all content fits
-      // check if html syntax is correctly rendered.
+      setCurrentPoem(poems[poemId]);
+      console.log(poems[poemId]);
     }
     fetchData();
-  }, []);
+  }, [toggle]);
 
   return (
-    <div>
-      <h1>title</h1>
-      <p>Content</p>
-      <h5>footer</h5>
+    <div className={styles.box}>
+      <h1>{currentPoem.title || ""}</h1>
+      <p>{currentPoem.content || ""}</p>
+      <h5>{currentPoem.poet ? currentPoem.poet.name : ""}</h5>
     </div>
   );
 };

@@ -1,12 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
 import { PoemBox } from "./PoemBox";
 import { FoxBox } from "./FoxBox";
 
-export const ContentWrapper = ({ option }) => {
-  if (option === 0) {
-    return <PoemBox />;
-  }
-  if (option === 1) {
-    return <FoxBox />;
-  }
+export const ContentWrapper = ({ option, toggle }) => {
+  return (
+    <div>
+      {option === 0 ? <PoemBox toggle={toggle} /> : <FoxBox toggle={toggle} />}
+    </div>
+  );
 };
