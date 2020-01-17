@@ -1,7 +1,16 @@
 .box {
+  background: #e0e1dc;
+  padding: 7px 30px;
+  box-shadow: inset 100px 0 50px rgba(0, 0, 0, 0.5),
+    20px 0 60px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+
+  //transform: perspective(2000px);
+  transform: skewY(0deg);
+
   & * {
     font-family: sans-serif;
-    color: rgb(230, 230, 230);
+    color: rgb(30, 30, 30);
   }
 
   & p {

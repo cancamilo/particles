@@ -1,12 +1,12 @@
 export const poems = [
   {
-    title: "Friar Anselmo",
+    title: "Sonnet Xxii: Come Time",
     content:
-      "Friar Anselmo (God's grace may he win!)\nCommitted one sad day a deadly sin;\n\nWhich being done he drew back, self-abhorred,\nFrom the rebuking presence of the Lord,\n\nAnd, kneeling down, besought, with bitter cry,\nSince life was worthless grown, that he might die.\n\nAll night he knelt, and, when the morning broke,\nIn patience still he waits death's fatal stroke.\n\nWhen all at once a cry of sharp distress\nAroused Anselmo from his wretchedness;\n\nAnd, looking from the convent window high,\nHe saw a wounded traveller gasping lie\n\nJust underneath, who, bruised and stricken sore,\nHad crawled for aid unto the convent door.\n\nThe friar's heart with deep compassion stirred,\nWhen the poor wretch's groans for help were heard\n\nWith gentle hands, and touched with love divine,\nHe bathed his wounds, and poured in oil and wine.\n\nWith tender foresight cared for all his needs,-\nA blessed ministry of noble deeds.\n\nIn such devotion passed seven days. At length\nThe poor wayfarer gained his wonted strength.\n\nWith grateful thanks he left the convent walls,\nAnd once again on death Anselmo calls.\n\nWhen, lo! his cell was filled with sudden light,\nAnd on the wall he saw an angel write,\n\n(An angel in whose likeness he could trace,\nMore noble grown, the traveller's form and face),\n\n'Courage, Anselmo, though thy sin be great,\nGod grants thee life that thou may'st expiate.\n\n'Thy guilty stains shall be washed white again,\nBy noble service done thy fellow-men.\n\n'His soul draws nearest unto God above,\nWho to his brother ministers in love.'\n\nMeekly Anselmo rose, and, after prayer,\nHis soul was lightened of its past despair.\n\nHenceforth he strove, obeying God's high will,\nHis heaven-appointed mission to fulfil.\n\nAnd many a soul, oppressed with pain and grief,\nOwed to the friar solace and relief.",
-    url: "https://www.poemist.com/horatio-alger-jr/friar-anselmo",
+      "Come Time, the anchor-hold of my desire, \nMy last resort whereto my hopes appeal, \nCause once the date of her disdain t'expire; \nMake her the sentence of her wrath repeal. \nRob her fair Brow, break in on Beauty, steal \nPower from those eyes, which pity cannot spare; \nDeal with those dainty cheeks as she doth deal \nWith this poor heart consumed with despair; \nThis heart made now the prospective of care, \nBy loving her, the cruelst Fair that lives, \nThe cruelst Fair that sees I pine for her, \nAnd never mercy to my merit gives. \nLet her not still triumph over the prize \nOf mine affections taken by her eyes.",
+    url: "https://www.poemist.com/samuel-daniel/sonnet-xxii-come-time",
     poet: {
-      name: "Horatio Alger Jr",
-      url: "https://www.poemist.com/horatio-alger-jr"
+      name: " Samuel Daniel",
+      url: "https://www.poemist.com/samuel-daniel"
     }
   },
   {
@@ -20,16 +20,6 @@ export const poems = [
     }
   },
   {
-    title: "Homage To Hieronymus Bosch",
-    content:
-      "A woman with no face walked into the light;\nA boy, in a brown-tree norfolk suit,\nHolding on\nWithout hands\nTo her seeming skirt.\n\nShe stopped,\nAnd he stopped,\nAnd I, in terror, stopped, staring.\n\nThen I saw a group of shadowy figures behind her.\n\nIt was a wild wet morning\nBut the little world was spinning on.\n\nLiplessly, somehow, she addressed it:\nThe book must be opened\nAnd the park too.\n\nI might have tittered\nBut my teeth chattered\nAnd I saw that the words, as they fell,\nLay, wriggling, on the ground.\n\nThere was a stir of wet wind\nAnd the shadowy figures began to stir\nWhen one I had thought dead\nFilmed slowly out of his great effigy on a tomb near by\nAnd they all shuddered\nHe bent as if to speak to the woman\nBut the nursery governor flew up out of the well of Saint Patrick,\nConfiscated by his mistress,\n\nAnd, his head bent,\nStaring out over his spectacles,\nAnd scratching the gravel furiously, Hissed -\n    The words went pingg! like bullets,\n    Upwards, past his spectacles\nSay nothing, I say, say nothing, say nothing!\nAnd he who had seemed to be coming to life\nGasped,\nBegan hysterically, to laugh and cry,\nAnd, with a gesture of impotent and half-petulant despair,\nFilmed back into his effigy again.\n\nHigh above the Bank of Ireland\nUnearthly music sounded,\nPassing westwards.\n\nThen, from the drains,\nSmall sewage rats slid out.\nThey numbered hundreds of hundreds, tens, thousands.\nEach bowed obsequiously to the shadowy figures\nThen turned and joined in a stomach dance with his brothers and sisters.\nBeing a multitude, they danced irregularly.\nThere was rat laughter, Deeper here and there,\nAnd occasionally she-rats grew hysterical.\nThe shadowy figures looked on, agonized.\nThe woman with no face gave a cry and collapsed.\nThe rats danced on her\nAnd on the wriggling words\nSmirking.\nThe nursery governor flew back into the well\nWith the little figure without hands in the brown-tree clothes.",
-    url: "https://www.poemist.com/thomas-macgreevy/homage-to-hieronymus-bosch",
-    poet: {
-      name: " Thomas MacGreevy",
-      url: "https://www.poemist.com/thomas-macgreevy"
-    }
-  },
-  {
     title: "Memory",
     content:
       "MY childhood's home I see again,\n        And sadden with the view; \n    And still, as memory crowds my brain,\n        There's pleasure in it, too.\n\n    O memory! thou midway world\n        'Twixt earth and paradise, \n    Where things decayed and loved ones lost\n        In dreamy shadows rise,\n\n    And, freed from all that's earthly, vile,\n        Seem hallowed, pure and bright, \n    Like scenes in some enchanted isle\n        All bathed in liquid light.\n\n    As dusky mountains please the eye\n        When twilight chases day; \n    As bugle notes that, passing by,\n        In distance die away;\n\n    As, leaving some grand waterfall,\n        We, lingering, list its roar- \n    So memory will hallow all\n        We've known but know no more.\n\n    Near twenty years have passed away\n        Since here I bid farewll \n    To woods and fields, and scenes of play,\n        And playmates loved so well.\n\n    Where many were, but few remain\n        Of old familiar things, \n    But seeing them to mind again\n        The lost and absent brings.\n\n    The friends I left that parting day,\n        How changed, as time has sped! \n    Young childhood grown, strong manhood gray;\n        And half of all are dead.\n\n    I hear the loved survivors tell\n        How nought from death could save, \n    Till every sound appear a knell\n        And every spot a grave.\n\n    I range the fields with pensive tread,\n        And pace the hollow rooms, \n    And feel (companion of the dead)\n        I'm living in the tombs.\n\n        Abraham Lincoln",
@@ -37,6 +27,77 @@ export const poems = [
     poet: {
       name: "Abraham Lincoln",
       url: "https://www.poemist.com/abraham-lincoln"
+    }
+  },
+  {
+    title: "Education",
+    content:
+      "Seven years old,\non loan to an uncle\nand a bundle of cash went missing.\nFor three days locked in a room, beaten.\nThe golden orbs of pennies roasted in an oven\nremoved by tongs\nglisten on a child’s skin\nas she screams and screams.\nThese round white scars \nthat remain even today\nwithout pigment\nwithout the shadow of colour\nwith only the ash’s afterglow.\n\nAfter telling that story\nyou burnt your hand on the iron,\nburnt it yourself,\nyour punishment for breaking silence.\n\nYou rushed to the balcony but they pulled you back inside.\nYou wanted to spit, to scream insults at the soldiers\nto stop them beating up the old man in the street.\n“Listen,” she said as she held you back, your mother.\n“Listen, you have to learn to say nothing.”\nLearn to be nobody.\nLearn to be the white wall\nthat has no face and no tongue.",
+    url: "https://www.poemist.com/peter-boyle/education",
+    poet: {
+      name: "Peter Boyle",
+      url: "https://www.poemist.com/peter-boyle"
+    }
+  },
+  {
+    title: "Speaks with the Dead",
+    content:
+      "Too few resources to think of all that occurs\nvegetal fate, i.e.: Decomposed in the Clay Pot.\nBored by our styles the intensive disgorges us \ninto the light, humus for spirit, microbes.\n\nOther than memory, suggests the child, what is not \nactually in space, undisgorged in time\non this day it learns the words nougat\nHonduras, lymph nodes, Little Longnose.\n\nIt learns the word babel and doesn't forget it\nonly its sense, it learns the word ball-peen,\nthe word ballpoint, the word balloonist.\n\nSignifikant: i.e. the fate of the hamster,\nof spiders. Here the child utters only -kant:\nlays out articulate graves, speaks with the dead.\n\nTranslated by Christian Hawkey",
+    url: "https://www.poemist.com/steffen-popp/speaks-with-the-dead",
+    poet: {
+      name: "Steffen Popp",
+      url: "https://www.poemist.com/steffen-popp"
+    }
+  },
+  {
+    title: "Self-esteem",
+    content:
+      "The Oil must leak.\nThe tongue must toil.\nMan must use\nboth tongue and oil.\n\nThe man licks the donor,\nthe tongue licks the oil.\nThe oil invents\na concept of honor.",
+    url: "https://www.poemist.com/ann-cotten/self-esteem",
+    poet: {
+      name: "Ann Cotten",
+      url: "https://www.poemist.com/ann-cotten"
+    }
+  },
+  {
+    title: "Saudade",
+    content:
+      "Aqui outrora retumbaram hinos;\nMuito coche real nestas calçadas \nE nestas praças, hoje abandonadas, \nRodou por entre os ouropéis mais finos...\n\nArcos de flores, fachos purpurinos, \nTrons festivais, bandeiras desfraldadas, \nGirândolas, clarins, atropeladas \nLegiões de povo, bimbalhar de sinos...\n\nTudo passou! Mas dessas arcarias\nNegras, e desses torreões medonhos, \nAlguém se assenta sobre as lájeas frias;\n\nE em torno os olhos úmidos, tristonhos, \nEspraia, e chora, como Jeremias, \nSobre a Jerusalém de tantos sonhos!...",
+    url: "https://www.poemist.com/raimundo-correia/saudade",
+    poet: {
+      name: "Raimundo Correia",
+      url: "https://www.poemist.com/raimundo-correia"
+    }
+  },
+  {
+    title: "White",
+    content:
+      "A cabbage white:\nA bluster at the edge of sight,\n\nunbroken bronco,\nits own mute rodeo,\n\na battle without issue.\n\n*\nWhite toilet tissue,\n\na single grey sheet, whole\nin the lavatory bowl,\n\nlike ectoplasm.\n\n*\nNo lightning in spasms.\n\nDark. But white rain,\nsmashed transparency:\n\ncontains\nflash photography.\n\n*\nIs now electricity:\n\ntiny bulbs, silver-white, shine\non the blue plastic washing line.\n\n*\nDirty white, a pigeon tarred\nand feathering the road.\n\n*\nNew lambs\nout on their limbs:\n\nabrupt\nlittle hiccoughs.\n\nThe twilight tone\nof damp pumice stone.\n\n*\nIndifferent happiness writes\nits different whites.",
+    url: "https://www.poemist.com/craig-raine/white",
+    poet: {
+      name: "Craig Raine",
+      url: "https://www.poemist.com/craig-raine"
+    }
+  },
+  {
+    title: "Jeg skrev en Dag en Petition",
+    content:
+      "Jeg skrev en Dag en Petition,\nen Bøn om gunstig Protektion:\njeg vilde ta'e det, som det blev.\nGud give, jeg det aldrig skrev!\nVil du med, saa hæng paa.\n\nJeg skrev en Gang et Frierbrev,\net Elskovs Evangelium.\nGud give, jeg det aldrig skrev!\nDen hovne Tøs blev dobbelt dum.\nVil du med, saa hæng paa.\n\nDen gode Lykke mødte mig.\nHun bad mig at benytte sig.\nJeg gad ej strax; og da jeg skrev\nen anden Dag, hun udeblev.\nVil du med, saa hæng paa.\n\nSaa skrev jeg Himlens Gud et Brev.\nOg det fortrød jeg ej, jeg skrev.\nThi Brevet blev tilbagesendt\nmed Svar: Adresse ubekendt!\nVil du med -",
+    url:
+      "https://www.poemist.com/sophus-niels-ch-claussen/jeg-skrev-en-dag-en-petition",
+    poet: {
+      name: "Sophus Niels Ch Claussen",
+      url: "https://www.poemist.com/sophus-niels-ch-claussen"
+    }
+  },
+  {
+    title: "Night Song",
+    content:
+      "Over nocturnal dark floods \nI sing my sad songs, \nSongs which bleed like wounds. \nHowever, no heart carries them to me again \nThrough the darkness.\n\nOnly the nocturnal dark floods \nRush, sob my songs, \nSongs which bleed from wounds, \nThey carry them to my heart again \nThrough the darkness.",
+    url: "https://www.poemist.com/georg-trakl/night-song",
+    poet: {
+      name: "Georg Trakl",
+      url: "https://www.poemist.com/georg-trakl"
     }
   },
   {
@@ -102,6 +163,26 @@ export const poems = [
     }
   },
   {
+    title: "The Mocking-Bird",
+    content:
+      "O heart that cannot sleep for song!\nBehold, I wake with thee,\nAnd drink, as from a fountain strong,\nThy midnight melody,\nThat, poured upon the thirsting silence, seems\nFresh from the shade of dreams\nMy spirit, like the sapless bough\nOf some long-wintered tree,\nFeels suddenly the life that now\nSets all thy passion free,\nAnd flushed as in the wakening strength of wine,\nLeaps heavenward with thine.",
+    url: "https://www.poemist.com/john-bannister-tabb/the-mocking-bird",
+    poet: {
+      name: "John Bannister Tabb",
+      url: "https://www.poemist.com/john-bannister-tabb"
+    }
+  },
+  {
+    title: "Das Grab Im Busento",
+    content:
+      "Nächtlich am Busento lispeln bei Cosenza dumpfe Lieder. \nAus den Wassern schallt es Antwort, in den Wirbeln klingt es wider. \nUnd den Fluss hinauf, hinunter zieh´n die Schatten tapfrer Goten, \nDie den Alarich beweinen, ihres Volkes besten Toten. \nAllzu früh und fern der Heimat mussten sie ihn hier begraben, \nWährend noch die Jugendlocken seine Schultern blond umgaben. \nUnd am Ufer des Busento reihten sie sich um die Wette. \nUm die Strömung abzuleiten gruben sie ein frisches Bette. \nIn der wogenleeren Höhlung wühlten sie empor die Erde, \nSenkten tief hinein den Leichnam mit der Rüstung auf dem Pferde. \nDeckten dann mit Erde wieder ihn und seine stolze Habe, \nDass die hohen Stromgewächse wüchsen aus dem Heldengrabe. \nAbgelenkt zum zweiten Male, ward der Fluss herbeigezogen. \nMächtig in ihr altes Bette schäumten die Busentowogen. \nUnd es sang ein Chor von Männern 'Schlaf in deinen Heldenehren! \nKeines Römers schnöde Habsucht soll dir je dein Grab versehren!' \nSangen´s, und die Lobgesänge tönten fort im Gotenheere. \nWälze sie, Busentowelle, wälze sie von Meer zu Meere!",
+    url: "https://www.poemist.com/august-graf-von-platen/das-grab-im-busento",
+    poet: {
+      name: "August Graf von Platen",
+      url: "https://www.poemist.com/august-graf-von-platen"
+    }
+  },
+  {
     title: "Like Summer",
     content:
       "November? 'tis a summer's day!\nFor tropic airs are blowing\nAs soft as whispered roundelay\nFrom unseen lips that seem to say\nTo feathered songsters going\nTo sunnier, southern climes afar,\n'Stay where you are--stay where you are!'\n\nAnd other tokens glad as these\nDeclare that Summer lingers:\nRound latent buds still hum the bees,\nSlow fades the green from forest trees\nEre Autumn's artist fingers\nHave touched the landscape, and instead\nBrought out the amber, brown, and red.\n\nThe invalid may yet enjoy\nHis favorite recreation,\nGay, romping girl, unfettered boy\nIn outdoor sports the time employ,\nAnd happy consummation\nOf prudent plans the farmer know\nEre wintry breezes round him blow.\n\nAnd they by poverty controlled--\nGood fortune shall betide them\nAs scenes of beauty they behold,\nAnd seem to revel in the gold\nWhich Plutus has denied them;\nFor, ah! the poor from want's despair\nOft covet wealth they never share.",
@@ -129,16 +210,6 @@ export const poems = [
     poet: {
       name: "Satish Verma",
       url: "https://www.poemist.com/satish-verma"
-    }
-  },
-  {
-    title: "Advice",
-    content:
-      "AD ARIUSTUM FUSCUM\n\n        I\n\nHorace: Book I, Ode 22.\n\n'_Integer vitae sclerisque purus_'-\n\n_Take it from me: A guy who's square,\n  His chances always are the best.\nI'm in the know, for I've been there,\n  And that's no ancient Roman jest._\n\nWhat time he hits the hay to rest\n  There's nothing on his mind but hair,\nNo javelin upon his chest-\n  _Take it from me, a guy who's square._\n\nThere's nothing that can throw a scare\n  Into the contents of his vest; \nHis name is Eva I-Don't-Care; \n  _His chances always are the best._\n\nWhy, once, when I was way out West,\n  Singing to Lalage, a bear\nCame up, and I was some distressed-\n  _I'm in the know, for I've been there._\n\nBut back he went into his lair,\n  (Cage, corner, den, retreat, nook, nest) ,\nAnd left me to 'The Maiden's Prayer'-\n  _And that's no ancient Roman jest._\n\nIn Newtonville or Cedar Crest,\n  In Cincinnati or Eau Claire,\nI'll warble till I am a pest,\n  'My Lalage'-no matter where-\n    _Take it from me! _\n\n        II\n\nFuscus, my friend, take it from me-\n  I know the world and what it's made of-\nOne on the square has naught to be\n    Afraid of.\n\nThe Moorish bows and javelins? Nope.\n  Such deadly things need not alarm him.\nWhy, even arrows dipped in dope\n    Can't harm him! \n\nHe's safe in any clime or land,\n  Desert or river, hill or valley; \nSafe in all places on the Rand-\n    McNally.\n\nWhy, one day in my Sabine grot,\n  I sang for Lalage to hear me; \nA wolf came in and he did not\n    Come near me! \n\nAh, set me on the sunless plain,\nIn China, Norway, or Matanzas,\nAy, place me anywhere from Maine\n    To Kansas.\n\nStill of my Lalage I'll sing,\nWhere'er the Fates may chance to dropp me; \nAnd nobody nor anything\n    Shall stop me.",
-    url: "https://www.poemist.com/franklin-pierce-adams/advice",
-    poet: {
-      name: " Franklin Pierce Adams",
-      url: "https://www.poemist.com/franklin-pierce-adams"
     }
   },
   {
@@ -325,16 +396,6 @@ export const poems = [
     }
   },
   {
-    title: "The Everlasting Rose",
-    content:
-      "Hail to thy hues! thou lovely flower,\nStill shed around thy soft perfume,\nStill smile amid the wint'ry hour,\nAnd boast even now a springtide bloom.\n\nIn April's bower thy sweets are breath'd,\nAnd June beholds thy blossoms fair;\nIn Autumn's chaplet thou art wreath'd,\nAnd round December's forehead bare.\n\nThe Summer lily sees thee blow,\nAs high she rears her trembling head;\nAnd Winter boasts his flowers of snow,\nA contrast to thy lingering red.\n\nFor thee the cuckow pours his voice,\nAnd thou dost see the swallow gay,\nThe summer thrush bids thee rejoice,\nAnd wint'ry robin's sweeter lay.\n\nMost soft, most lovely dost thou seem,\n'Mid parching heat, 'mid nipping frost;\nAnd gathering beauty from each beam\nNo hue, no grace of thine is lost.\n\nThus Hope, 'mid life's severest days,\nStill smiles, still triumphs o'er despair;\nAlike she lives in Pleasure's rays,\nAnd cold Affliction's winter air.\n\nAlike she blooms in Science' bower,\nAnd in the rural cot she glows,\nThe Poet's and the Lover's flower,\nThe bosom's everlasting Rose!",
-    url: "https://www.poemist.com/john-anster/the-everlasting-rose",
-    poet: {
-      name: "John Anster",
-      url: "https://www.poemist.com/john-anster"
-    }
-  },
-  {
     title: "Confession of Morning Star",
     content:
       "Remember God that day when your will \r\nMake my existence so damned\r\nYou say am the light bringer\r\nThe first of all angels\r\nBut Some hour my name change into betrayer\r\nYour new creation the man\r\nAlso become a wreck\r\nHe choose death blood and killing\r\nAre you proud of that\r\nSimilarity of You fail\r\nNow your children become same like Me\r\nGoing down to the abyss kingdom\r\nRemember Master who said first let it be\r\nThe world full of beauty\r\nTurn into pathetic land\r\nWhy you leave all your children alone\r\nThey begging for mercy help\r\nThey helpless\r\nLost and empty inside\r\nNow am the Lord of this world\r\nNow I will swallow every soul\r\nDestroy same as you did to me\r\nRemember you said\r\nAm the morning star\r\nHighest at heaven\r\nThe first of all angels\r\n(A fragment from the book of the dead)",
@@ -342,6 +403,36 @@ export const poems = [
     poet: {
       name: "Mark Barecki",
       url: "https://www.poemist.com/mark-barecki"
+    }
+  },
+  {
+    title: "Our Suffering Saviour",
+    content:
+      "God made the tree which was destined to be\n The cross of the Saviour of humanity.\n God laid out the plan whereby man would be free\n But Jesus denounced, went to old Calvary.\n\n God bads his dear Son to traverse the way\n Though Jesus, in torment, cringed from it that day.\n He suffered the pain, the shame and the sin\n For mankind's return unto God, once again.",
+    url: "https://www.poemist.com/juanita-derringer/our-suffering-saviour",
+    poet: {
+      name: " Juanita Derringer",
+      url: "https://www.poemist.com/juanita-derringer"
+    }
+  },
+  {
+    title: "As It Was In The Beginning",
+    content:
+      "The royal word goes forth, and armies do\nThe work of devils. Agony and waste\nAre on the world, and the grim legions haste\nOn the old war-roads that the Caesars knew.\nStill gleams the dreadful stain of Waterloo,\nOn Time's accusing record unerased;\nGone are the ramparts that the Romans faced,\nBut these the heavens where their eagles flew.\n\nBelow the bleak and slowly shifting stars,\nMan turns him in his madness, to reveal\nHis ancient folly and his ancient crime,\nAnd on the tragic breast austere with scars\nRe-girds the mail, and draws the hiked steel,\nCold from the twilight battlefields of Time.",
+    url: "https://www.poemist.com/george-sterling/as-it-was-in-the-beginning",
+    poet: {
+      name: " George Sterling",
+      url: "https://www.poemist.com/george-sterling"
+    }
+  },
+  {
+    title: "The Silent One",
+    content:
+      "Who died on the wires, and hung there, one of two -\nWho for his hours of life had chattered through\nInfinite lovely chatter of Bucks accent:\nYet faced unbroken wires; stepped over, and went\nA noble fool, faithful to his stripes - and ended.\nBut I weak, hungry, and willing only for the chance\nOf line- to fight in the line, lay down under unbroken\nWires, and saw the flashes and kept unshaken,\nTill the politest voice - a finicking accent, said:\n‘Do you think you might crawl through there: there's a hole.'\nDarkness shot at: I smiled, as politely replied –\n‘I'm afraid not, Sir.' There was no hole, no way to be seen\nNothing but chance of death, after tearing of clothes.\nKept flat, and watched the darkness, hearing bullets whizzing –\nAnd thought of music - and swore deep heart's oaths\n(Polite to God) and retreated and came on again,\nAgain retreated a second time, faced the screen.",
+    url: "https://www.poemist.com/ivor-gurney/the-silent-one",
+    poet: {
+      name: "Ivor Gurney",
+      url: "https://www.poemist.com/ivor-gurney"
     }
   },
   {
@@ -355,6 +446,16 @@ export const poems = [
     }
   },
   {
+    title: "Le vieux Moulin",
+    content:
+      "Is a well amid wet grass the road abuts.\nA layer of humus where oak beams once stood\ngives two clumps of wild loosestrife the guts\nto stand up tall like trees within a wood.\n\nTwo bands of stalks it lies between.\nAgainst them, right and left, its legs are packed,\nRising to hips quite worthy of a queen,\nold gold lying on a millstone that's cracked.\n\nFrom above between two purple patches viewed,\nRecumbent golden flesh of a Sybil divine\nin a Mycenaean shaft, but maddeningly crude\nmasked upon the slivers she can recline\n\nfrom breaches in the Ardennes cellar wall.\nThe silence thickens when the mask is broken,\nriver ravine air forms a calm, enduring hall\nwhen the clenched jaw releases words unspoken:\n\n\"All you call gold may be just bronze and brown.\nI at my level see the roots that bind the ground\nand grey fungi made of glued moth down,\nand past my hand ants lug their larvae round.'\n\nTranslated by Paul Vincent",
+    url: "https://www.poemist.com/jos-de-haes/le-vieux-moulin",
+    poet: {
+      name: "Jos De Haes",
+      url: "https://www.poemist.com/jos-de-haes"
+    }
+  },
+  {
     title: "Color Blind",
     content:
       "(This is a fictional poem) \n\nI'm color blind and I get confused at traffic lights.\nWhen I hit people's cars, I get into a lot of fights.\nI thought I'd get off easy when I hit a car that belongs to a priest.\nBut he had his brother with him and he attacked me like a beast.\nLast year a judge took away my license and he put me in jail too.\nWhen I got out, I continued to drive because I have a very low IQ.",
@@ -362,6 +463,16 @@ export const poems = [
     poet: {
       name: "Randy Johnson",
       url: "https://www.poemist.com/randy-johnson"
+    }
+  },
+  {
+    title: "God's Small Beings (3)",
+    content:
+      "Relation\na reverse beginning\non the way of lost voyagers of dreams.\n\nTranslation: 1996, Sam Vaseghi",
+    url: "https://www.poemist.com/robab-moheb/gods-small-beings-3",
+    poet: {
+      name: "Robab Moheb",
+      url: "https://www.poemist.com/robab-moheb"
     }
   }
 ];

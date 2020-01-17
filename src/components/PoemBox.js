@@ -11,8 +11,8 @@ export const PoemBox = ({ toggle }) => {
       const length = poems.length;
       const poemId = Math.floor(Math.random() * length);
       console.log("randomly generated id:", poemId);
+      console.log("poems length ", length);
       setCurrentPoem(poems[poemId]);
-      console.log(poems[poemId]);
     }
     fetchData();
   }, [toggle]);

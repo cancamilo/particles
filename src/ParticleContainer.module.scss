@@ -1,14 +1,14 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background: rgb(40, 40, 40);
+  background: rgb(80, 20, 20);
   display: flex;
   z-index: 100;
 }
 
 .centerFrame {
   margin: auto;
-  margin-top: 10vh;
+  margin-top: 2vh;
   flex-basis: 90%;
   z-index: 200;
 }
